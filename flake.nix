@@ -6,7 +6,7 @@
     templates = {
       josso-pxy = {
         path =./josso-pxy;
-        description = "JOSSO Proxy";
+        description = "JOSSO Proxy using NGINX, SSL and self-signed certificates";
       };
     };
   };
