@@ -1,5 +1,5 @@
 {
-  description = "Simple Docker Flake project";
+  description = "JOSSO Proxy w/SSL Docker image";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
